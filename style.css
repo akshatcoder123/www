@@ -1,0 +1,27 @@
+h1{
+font-family: 'Potta One', cursive;
+    font-size: 100px;
+    color:darkred;
+}
+p{
+font-family: 'Pacifico', cursive;
+    color:darkred;
+    font-size: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+body{
+    background: black;
+    text-align: center;
+    margin-top: 30;
+}
+.link{
+font-size: 30px;
+margin:0 10 20 10;
+    color:darkred;
+ 
+}
+.link:hover{
+    background-color:antiquewhite;
+    padding:5 20 5 20;
+}
